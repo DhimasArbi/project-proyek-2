@@ -7,11 +7,13 @@
 | Institusi      | jti.polinema.ac.id                      |
 |                |                                         |
 
-Nama : Dhimas Arbi Sukma Himawan
+## Data Diri
 
-Kelas : TI3B
-
-NIM : 1941720169
+|              |                               |
+| ------------ | ----------------------------- |
+| NIM          | **1941720169**                |
+| Nama Lengkap | **Dhimas Arbi Sukma Himawan** |
+| Kelas        | TI-3B                         |
 
 #### Deploy untuk lokal testing:
 
